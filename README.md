@@ -54,6 +54,11 @@ cat/less with line number, colors and syntax highlighting.
    4   │ 
 ```
 
+### most
+[most](https://linux.die.net/man/1/most) (C89, GPL)
+
+pager much like less/more with forward and backward scrolling.
+
 ## ls
 
 ### [exa](https://the.exa.website/) (Rust, MIT)
